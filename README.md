@@ -6,7 +6,9 @@ This project is the result of a 6-lab series from the TI-RSLK Mechatronics cours
 
 <img src="Robot.jpg" alt="Robot" width="400"/>
 <img src="MSP432.jpg" alt="MSP432" width="400"/>
-![Robot_demo](Robot_demo.gif)
+<br/>
+
+![Robot_demo](Robot_demo.gif)  
 ![Robot_demo_2](Robot_demo_2.gif)
 
 **More info:** https://www.pololu.com/category/240/ti-robotics-system-learning-kit-max-ti-rslk-max-parts-and-accessories
