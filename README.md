@@ -4,7 +4,6 @@ This project is the result of a 6-lab series from the TI-RSLK Mechatronics cours
 
 ## Preview
 
-<img src="Robot.jpg" alt="Robot" width="400"/>
 <img src="MSP432.jpg" alt="MSP432" width="400"/>
 <br/>
 
