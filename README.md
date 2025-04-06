@@ -4,10 +4,12 @@ This project is the result of a 6-lab series from the TI-RSLK Mechatronics cours
 
 ## Preview
 
-![Robot](Robot.png)
-![MSP432](MSP432.png)
-![Robot_demo](Robot_demo.png)
-![Robot_demo_2](Robot_demo_2.png)
+![Robot](Robot.jpg)
+![MSP432](MSP432.jpg)
+![Robot_demo](Robot_demo.gif)
+![Robot_demo_2](Robot_demo_2.gif)
+
+**More info:** https://www.pololu.com/category/240/ti-robotics-system-learning-kit-max-ti-rslk-max-parts-and-accessories
 
 ## 🔧 Hardware Used
 - MSP432P401R LaunchPad (ARM Cortex-M4)
