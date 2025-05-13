@@ -3,7 +3,6 @@
 This project is the result of a 6-lab series from the TI-RSLK Mechatronics course. It brings together microcontroller programming, motor control, sensors, and serial communication to build a fully autonomous and remotely controlled robot.
 
 ## Preview
-
 <img src="Robot.jpg" alt="Robot" width="400"/>
 <img src="MSP432.jpg" alt="MSP432" width="400"/>
 <br/>
